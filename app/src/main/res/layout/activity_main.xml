@@ -111,6 +111,8 @@
         android:background="@color/white"
         android:text="@string/sign_up"
         android:textColor="#757575"
+        android:textColorHint="@color/white"
+        android:textColorLink="@color/white"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
